@@ -43,6 +43,49 @@ forward(200)
 left(120)
 forward(200)
 end_fill()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#we want to paint a second house
+#step 2: draw a square
+penup()
+goto(200,200)
+pendown()
 exitonclick()
 
 
